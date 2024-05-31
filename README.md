@@ -12,4 +12,4 @@ Navega hasta el paquete descargado e impórtalo.
 
 # Video Demo Vuforia
 
-[20240531_143305_VideoTest.mp4](assets/20240531_143305_VideoTest.mp4)
+[Link Video Test Vuforia](https://drive.google.com/file/d/19TLr_oWlOtue1wogfAtazXAjVZi5k84d/view?usp=share_linkhttps:/)
