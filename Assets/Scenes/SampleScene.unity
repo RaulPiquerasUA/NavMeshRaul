@@ -394,7 +394,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 386548668}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.708, y: -22.08, z: 0}
+  m_LocalPosition: {x: -4.708, y: 1.03, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -823,8 +823,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/MasterUA.xml
   mAspectRatio: 1
   mImageTargetType: 0
-  mWidth: 3
-  mHeight: 3
+  mWidth: 30
+  mHeight: 30
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -1099,7 +1099,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1778650048}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.266, y: -21.88, z: 0}
+  m_LocalPosition: {x: -4.266, y: 1.21, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1147,7 +1147,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 99ffda91193d54d47a5cd1b2d65f3f77, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -21.7
+      value: 1.14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 99ffda91193d54d47a5cd1b2d65f3f77, type: 3}
       propertyPath: m_LocalPosition.z
