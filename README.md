@@ -1,5 +1,6 @@
-
 # Añadir el Paquete Vuforia Engine desde el Administrador de Paquetes
+
+Link Descarga Paquete: [Vuforia Engine](https://drive.google.com/file/d/1kgx3qCJZ4fyIdwL-tQ1juPo52IMHA6Mp/view?usp=sharing)
 
 Si has descargado el paquete Vuforia Engine para Unity antes, puedes añadir el archivo tarball (.tgz) desde la ventana del Administrador de Paquetes.
 
@@ -8,3 +9,7 @@ Abre el Administrador de Paquetes desde Ventana -> Administrador de Paquetes y h
 Selecciona Añadir paquete desde tarball…
 
 Navega hasta el paquete descargado e impórtalo.
+
+# Video Demo Vuforia
+
+[20240531_143305_VideoTest.mp4](assets/20240531_143305_VideoTest.mp4)
